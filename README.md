@@ -118,13 +118,7 @@ if (ax1 < -25 || ax1 > 15 || ay1 > 18 || ay1 < -20) {
 * 📱 Integrasi dengan mobile app / dashboard
 * 🎯 Tambahkan filter (Kalman / Complementary)
 * 🧠 Machine learning untuk deteksi pola gerakan
-
----
-
-## 📸 Demo (Optional)
-
-> Tambahkan video atau GIF di sini biar makin keren 😎
-
+* 
 ---
 
 ## 🤝 Contributing
